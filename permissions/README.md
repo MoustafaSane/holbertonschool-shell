@@ -1,2 +1,2 @@
 #!/bin/bash
-ce script permet de faire passer l'utlisateur actuel à l'utilisateur betty
+ce script affiche le nom d'utilisateur effectif de l'utilisateur actuel.
