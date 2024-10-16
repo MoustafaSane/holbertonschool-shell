@@ -1,2 +1,2 @@
 #!/bin/bash
-ce script affiche tous les groupes dont fait partie l'utilisateur actuel.
+ce script change le propriétaire du fichier hello en l'utilisateur betty.
