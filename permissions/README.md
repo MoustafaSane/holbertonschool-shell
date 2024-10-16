@@ -1,2 +1,2 @@
 #!/bin/bash
-ce script affiche le nom d'utilisateur effectif de l'utilisateur actuel.
+ce script affiche tous les groupes dont fait partie l'utilisateur actuel.
