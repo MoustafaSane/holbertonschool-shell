@@ -1,2 +1,2 @@
 #!/bin/bash
-ce script change le propriétaire du fichier hello en l'utilisateur betty.
+ce script ajoute au fichier hello le droit d'exécution pour le propriétaire et le propriétaire du groupe, et le droit de lecture pour les autres utilisateurs.
